@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'rehacek.co',
-  author: 'Ondrej rehacek',
+  author: 'Ondřej Řeháček',
   email: 'ondrejrehacek@gmail.com',
   link: 'https://rehacek.co',
   description: 'This gonna be an awesome website.',
