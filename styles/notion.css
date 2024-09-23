@@ -75,7 +75,7 @@ svg + .notion-page-title-text {
 }
 
 .notion-callout > .notion-page-icon-inline {
-  max-width: unset;
+  max-width: 1000px;
   max-height: unset;
   height: var(--no-leading);
   margin: 0;
@@ -142,6 +142,7 @@ pre[class*='language-'] {
 }
 .notion-list {
   width: 100%;
+  line-height: 15px;
 }
 .notion-collection {
   @apply max-w-full;
